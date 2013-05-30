@@ -5,7 +5,7 @@
     <ignored path="New.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/readme.md" changelist="3a6851e2-f4b8-4d4e-8619-0af1a65c0411" time="1369944178314" ignored="false" />
-    <file path="/index.html" changelist="3a6851e2-f4b8-4d4e-8619-0af1a65c0411" time="1369944438531" ignored="false" />
+    <file path="/index.html" changelist="3a6851e2-f4b8-4d4e-8619-0af1a65c0411" time="1369945239418" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="9" selection-start="80" selection-end="80" vertical-scroll-proportion="0.19729207">
+            <state line="9" column="11" selection-start="123" selection-end="123" vertical-scroll-proportion="0.2959381">
               <folding />
             </state>
           </provider>
@@ -243,7 +243,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="9" selection-start="80" selection-end="80" vertical-scroll-proportion="0.19729207">
+        <state line="9" column="11" selection-start="123" selection-end="123" vertical-scroll-proportion="0.2959381">
           <folding />
         </state>
       </provider>
